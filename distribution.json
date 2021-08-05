@@ -8,17 +8,17 @@
   },
   "servers": [
     {
-      "id": "HoukaiCraft-1.12.2",
-      "name": "HoukaiCraft (Minecraft 1.12.2)",
+      "id": "いろいろ-1.12.2",
+      "name": "いろいろmod (Minecraft 1.12.2)",
       "description": "いろいろなmodが入ってます",
-      "icon": "https://raw.githubusercontent.com/kurokurogame/hozonn/main/%E8%89%B2%E3%80%85mod.png",
+      "icon": "https://raw.githubusercontent.com/kurokurogame/hozonn/main/%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%20mod%20pack.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "HoukaiCraft-1.12.2",
-        "largeImageText": "HoukaiCraft-1.12.2",
-        "largeImageKey": "houkaicraft"
+        "largeImageText": "iroiro-1.12.2",
+        "largeImageKey": "iroirocraft"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -397,7 +397,7 @@
       "id": "Minecraft-1.16.5",
       "name": "Minecraft-1.16.5 (Minecraft 1.16.5)",
       "description": "1.16.5バニラのマインクラフトです。おすすめのMODも付属しています。",
-      "icon": "https://raw.githubusercontent.com/kurokurogame/hozonn/main/%E8%89%B2%E3%80%85mod.png",
+      "icon": "https://raw.githubusercontent.com/kurokurogame/hozonn/main/%E3%83%90%E3%83%8B%E3%83%A91.16.5%20mod%20pack.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
