@@ -272,6 +272,86 @@
           }
         },
         {
+          "id": "com.xcompwiz:PTRLib:0.13.7.06@jar",
+          "name": "PTRLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/PTRLib-1.0.5.jar",
+            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },    
+        {
+          "id": "com.xcompwiz:Decocraft:0.13.7.06@jar",
+          "name": "Decocraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/Decocraft-2.6.3.7_1.12.2.jar",
+            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },        
+        {
+          "id": "com.xcompwiz:DungeonsMod:0.13.7.06@jar",
+          "name": "DungeonsMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/DungeonsMod-1.12.2-1.0.6.jar",
+            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:Paraglider:0.13.7.06@jar",
+          "name": "Paraglider",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/Paraglider-1.12.2-1.0.1.5.jar",
+            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },        
+        {
+          "id": "com.xcompwiz:betteranimalsplus:0.13.7.06@jar",
+          "name": "betteranimalsplusr",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/betteranimalsplus-1.12.2-9.0.1.jar",
+            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },        
+        {
+          "id": "com.xcompwiz:mowziesmobs:0.13.7.06@jar",
+          "name": "mowziesmobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/mowziesmobs-1.5.8.jar",
+            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:metamorph:0.13.7.06@jar",
+          "name": "metamorph",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/metamorph-1.2.9-1.12.2.jar",
+            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },        
+        {
+          "id": "com.xcompwiz:SCP_Lockdown:0.13.7.06@jar",
+          "name": "SCP_Lockdown",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/SCP_Lockdown-1.12.2-2.4.0-hotfix.jar",
+            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },          
+        {
           "id": "com.xcompwiz:OptiFine_1.16.5_HD_U_G8:0.13.7.06@jar",
           "name": "OptiFine_1.16.5_HD_U_G8",
           "type": "ForgeMod",
