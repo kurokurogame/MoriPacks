@@ -290,17 +290,7 @@
             "url": "https://github.com/kurokurogame/mod/raw/main/Paraglider-1.12.2-1.0.1.5.jar",
             "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
           }
-        },        
-        {
-          "id": "com.xcompwiz:betteranimalsplus:0.13.7.06@jar",
-          "name": "betteranimalsplusr",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/betteranimalsplus-1.12.2-9.0.1.jar",
-            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
-          }
-        },        
+        },                
         {
           "id": "com.xcompwiz:mowziesmobs:0.13.7.06@jar",
           "name": "mowziesmobs",
