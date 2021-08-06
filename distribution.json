@@ -360,7 +360,7 @@
             "url": "https://github.com/kurokurogame/hozonn/raw/main/mclib-2.3-1.12.2.jar",
             "MD5": "4c8abdedc3c7cfc5da8197bf88dfec9fb"
           },  
-        {
+         {
           "id": "com.xcompwiz:landlust:0.13.7.06@jar",
           "name": "landlust",
           "type": "ForgeMod",
