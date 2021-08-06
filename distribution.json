@@ -270,26 +270,6 @@
             "url": "https://github.com/kurokurogame/hozonn/raw/main/vehicle-mod-0.44.1-1.12.2.jar",
             "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
           }
-        },
-        {
-          "id": "com.xcompwiz:PTRLib:0.13.7.06@jar",
-          "name": "PTRLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/PTRLib-1.0.5.jar",
-            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
-          }
-        },    
-        {
-          "id": "com.xcompwiz:Decocraft:0.13.7.06@jar",
-          "name": "Decocraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/Decocraft-2.6.3.7_1.12.2.jar",
-            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
-          }
         },        
         {
           "id": "com.xcompwiz:DungeonsMod:0.13.7.06@jar",
@@ -389,17 +369,7 @@
             "size": 2349249,
             "url": "https://github.com/kurokurogame/hozonn/raw/main/mclib-2.3-1.12.2.jar",
             "MD5": "4c8abdedc3c7cfc5da8197bf88dfec9fb"
-          }
-        {
-          "id": "com.xcompwiz:mowziesmobs:0.13.7.06@jar",
-          "name": "mclib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/mowziesmobs-1.5.8.jar",
-            "MD5": "4c8abdedc3c7cfc5da8197bf88dfec9fb"
-          }          
-        },          
+          }         
         {
           "id": "com.xcompwiz:landlust:0.13.7.06@jar",
           "name": "landlust",
