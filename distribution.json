@@ -275,18 +275,20 @@
           "id": "com.xcompwiz:llibrary:0.13.7.06@jar",
           "name": "llibrary",
           "type": "ForgeMod",
+          "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/llibrary-1.7.20-1.12.2.jar",
-            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+            "MD5": "4c8abgddc3c7crfc5da8197bf88dfec9fb"
           }
         },
         {
           "id": "com.xcompwiz:mclib:0.13.7.06@jar",
           "name": "mclib",
           "type": "ForgeMod",
+          "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/mclib-2.3.1-1.12.2.jar",
-            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+            "MD5": "4c8abgddc3dc7cfc5da8197bf88dfec9fb"
           }
         },
         {
