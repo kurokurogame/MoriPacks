@@ -461,19 +461,18 @@
         }
       ]
     },
-
     {
-      "id": "いろいろ-1.12.2",
-      "name": "いろいろmod (Minecraft 1.12.2)",
-      "description": "いろいろなmodが入ってます",
+      "id": "ドラゴン-1.12.2",
+      "name": "ドラゴンmod (Minecraft 1.12.2)",
+      "description": "ドラゴンmod参加型企画用のmod packが入ってます",
       "icon": "https://raw.githubusercontent.com/kurokurogame/hozonn/main/%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%20mod%20pack.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "HoukaiCraft-1.12.2",
-        "largeImageText": "iroiro-1.12.2",
-        "largeImageKey": "iroirocraft"
+        "shortId": "Dragon-1.12.2",
+        "largeImageText": "Dragon-1.12.2",
+        "largeImageKey": "Dragon_craft"
       },
       "mainServer": false,
       "autoconnect": false,
@@ -732,7 +731,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/iceandfire-2.1.8-1.16.5.jar",
+            "url": "https://github.com/kurokurogame/mod/raw/main/iceandfire-1.9.1-1.12.2.jar",
             "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
           }
         },
@@ -886,9 +885,6 @@
         }
       ]
     },
-
-
-
     {
       "id": "Minecraft-1.16.5",
       "name": "Minecraft-1.16.5 (Minecraft 1.16.5)",
