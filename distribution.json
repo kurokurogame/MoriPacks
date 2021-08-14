@@ -694,8 +694,8 @@
             "value": false
           }
         },
-        {
-          "id": "net.minecraftcapes:minecraftcapes:10@jar",
+       {
+          "id": "net.minecraftcapes:minecraftcapes:10@jar"
           "name": "MinecraftCapes Mod",
           "type": "ForgeMod",
           "artifact": {
@@ -706,7 +706,137 @@
           "required": {
             "value": false
           }
-        },    
+        }, 
+        {
+          "id": "com.xcompwiz:DungeonsMod:0.13.7.06@jar",
+          "name": "DungeonsMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/DungeonsMod-1.12.2-1.0.6.jar",
+            "MD5": "4c8abddc3c7cfc5da8197bf88dfec9fy"
+          }
+        },  
+        {
+          "id": "com.xcompwiz:SlashBlade-mc:0.13.7.06@jar",
+          "name": "SlashBlade-mc",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/SlashBlade-mc1.12-r33.jar",
+            "MD5": "4c8abddc3c7ctc5da8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:DrZharkst:0.13.7.06@jar",
+          "name": "DrZharks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/DrZharks%2BMoCreatures%2BMod-12.0.5.jar",
+            "MD5": "4c8abddc3c7cdc5da8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:OptiFine_1.16.5:0.13.7.06@jar",
+          "name": "OptiFine_1.16.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "4c8abddc3c7cfc7da8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:Paraglider:0.13.7.06@jar",
+          "name": "Paraglider",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/Paraglider-1.12.2-1.0.1.5.jar",
+            "MD5": "4c8abddc3c7cfc5da8199bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:SCP_Lockdown:0.13.7.06@jar",
+          "name": "SCP_Lockdown",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/SCP_Lockdown-1.12.2-2.4.0-hotfix.jar",
+            "MD5": "4c8abddc3c7cfc5dy8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:iceandfire:0.13.7.06@jar",
+          "name": "iceandfire",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/iceandfire-1.9.1-1.12.2.jar",
+            "MD5": "4c8abdbc3c7cfc5da8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:vehicle-mod:0.13.7.06@jar",
+          "name": "vehicle-mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/vehicle-mod-0.44.1-1.12.2.jar",
+            "MD5": "4c8abddc3c7cfc5di8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:mclib:0.13.7.06@jar",
+          "name": "mclib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/mclib-2.3.1-1.12.2.jar",
+            "MD5": "4c8abddc3c6cfc5da8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:emoticons:0.13.7.06@jar",
+          "name": "emoticons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/emoticons-1.0.1-1.12.2-dist.jar",
+            "MD5": "4c8abddc3c7cfc4da8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:metamorph:0.13.7.06@jar",
+          "name": "metamorph",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/metamorph-1.2.9-1.12.2.jar",
+            "MD5": "4c8rbddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:modularwarfare:0.13.7.06@jar",
+          "name": "modularwarfare",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/modularwarfare-1.0.12f.jar",
+            "MD5": "4c8abddc3c7cfc5da8187bf88dfec9fb"
+          }
+        },
+        {
+          "id": "com.xcompwiz:mowziesmobs:0.13.7.06@jar",
+          "name": "mowziesmobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/mowziesmobs-1.5.8.jar",
+            "MD5": "4c8tbddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },
         {
           "id": "options.txt",
           "name": "options.txt",
