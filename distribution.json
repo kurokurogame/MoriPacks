@@ -706,17 +706,7 @@
           "required": {
             "value": false
           }
-        },   
-        {
-          "id": "com.xcompwiz:emoticons:0.13.7.06@jar",
-          "name": "emoticons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/blob/main/emoticons-1.0.1-1.12.2-dist.jar",
-            "MD5": "4c8a5bddc3c7cfcg5da8197bf88dfec9fb"
-          }
-        },         
+        },    
         {
           "id": "options.txt",
           "name": "options.txt",
