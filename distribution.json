@@ -706,7 +706,7 @@
           "required": {
             "value": false
           }
-        },     
+        },
         {
           "id": "com.xcompwiz:OptiFine_1.16.5_HD_U_G8:0.13.7.06@jar",
           "name": "OptiFine_1.16.5_HD_U_G8",
@@ -764,7 +764,7 @@
           "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/mclib-2.3.1-1.12.2.jar",
-            "MD5": "4c8abgddc3c7cfc55da81975bf88dfec9fb"
+            "MD5": "4c8abgddc3c7cfc55da81975bf888dfec9fb"
           }
         },   
         {
@@ -774,7 +774,7 @@
           "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/SCP_Lockdown-1.12.2-2.4.0-hotfix.jar",
-            "MD5": "4c8abgddc3c57cfc55da81975bf88dfec9fb"
+            "MD5": "4c8abgddc3c57cfc55da81975bf884dfec9fb"
           }
         },
         {
@@ -784,7 +784,7 @@
           "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/Paraglider-1.12.2-1.0.1.5.jar",
-            "MD5": "4c8abg2ddc3c7cfc55da81975bf88dfec9fb"
+            "MD5": "4c8abg2ddc3c7cfc55da871975bf88dfec9fb"
           }
         },        
         {
@@ -794,7 +794,7 @@
           "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/metamorph-1.2.9-1.12.2.jar",
-            "MD5": "4c8abgddc3c7cfc55d1a81975bf88dfec9fb"
+            "MD5": "4c8abgddc3c7cfc55d1a816975bf88dfec9fb"
           }
         },        
         {
@@ -804,9 +804,9 @@
           "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/modularwarfare-1.0.12f.jar",
-            "MD5": "4c8ab1gddc3c7cfc55da81975bf88dfec9fb"
+            "MD5": "4c8ab1gddc3c37cfc55da81975bf88dfec9fb"
           }
-        },        
+        },             
         {
           "id": "options.txt",
           "name": "options.txt",
