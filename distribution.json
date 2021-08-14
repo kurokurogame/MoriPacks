@@ -456,8 +456,8 @@
     {
       "id": "ドラゴン-1.12.2",
       "name": "ドラゴンmod (Minecraft 1.12.2)",
-      "description": "ドラゴンmod参加型企画用のmod packが入ってます",
-      "icon": "https://raw.githubusercontent.com/kurokurogame/mod/main/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%20mod%20pack.png",
+      "description": "ドラゴン参加型企画用のmodが入ってます",
+      "icon": "https://raw.githubusercontent.com/kurokurogame/mod/main/%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%20mod%20pack.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
@@ -708,55 +708,25 @@
           }
         },
         {
-          "id": "com.xcompwiz:OptiFine_1.16.5_HD_U_G8:0.13.7.06@jar",
-          "name": "OptiFine_1.16.5_HD_U_G8",
+          "id": "com.xcompwiz:vehicle-mod:0.13.7.06@jar",
+          "name": "vehicle-mod",
           "type": "ForgeMod",
           "artifact": {
             "size": 2349249,
-            "url": "https://github.com/kurokurogame/hozonn/raw/main/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "4c8abgddc3c7cfc5da8197bf88dfec9fb"
+            "url": "https://github.com/kurokurogame/hozonn/raw/main/vehicle-mod-0.44.1-1.12.2.jar",
+            "MD5": "4c8abg5ddc3c7cfc5da8197bf88dfec9fb"
           }
         },
         {
-          "id": "com.xcompwiz:iceandfire:0.13.7.06@jar",
-          "name": "iceandfire",
+          "id": "com.xcompwiz:llibrary:0.13.7.06@jar",
+          "name": "llibrary",
           "type": "ForgeMod",
           "artifact": {
             "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/iceandfire-1.9.1-1.12.2.jar",
-            "MD5": "4c8abgddc3c7cfc5da8197bf288dfec9fb"
+            "url": "https://github.com/kurokurogame/mod/raw/main/llibrary-1.7.20-1.12.2.jar",
+            "MD5": "4c8abgddc3c7crfc5da8197bf88dfec99fb"
           }
         },
-        {
-          "id": "com.xcompwiz:DrZharks:0.13.7.06@jar",
-          "name": "DrZharks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/DrZharks%2BMoCreatures%2BMod-12.0.5.jar",
-            "MD5": "4c8abgddc3c7cfc5da8197bf288dfec9fb"
-          }
-        },        
-        {
-          "id": "com.xcompwiz:citadel:0.13.7.06@jar",
-          "name": "citadel",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/citadel-1.7.3-1.16.5.jar",
-            "MD5": "4c8abgddc3c76cfc5da8197bf88dfec9fb"
-          }
-        },   
-        {
-          "id": "com.xcompwiz:emoticons:0.13.7.06@jar",
-          "name": "emoticons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/emoticons-1.0.1-1.12.2-dist.jar",
-            "MD5": "4c8abgddc3c7cfc55da8197bf88dfec9fb"
-          }
-        },    
         {
           "id": "com.xcompwiz:mclib:0.13.7.06@jar",
           "name": "mclib",
@@ -764,17 +734,17 @@
           "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/mclib-2.3.1-1.12.2.jar",
-            "MD5": "4c8abgddc3c7cfc55da81975bf888dfec9fb"
+            "MD5": "4c8abgddc38dc7cfc5da8197bf88dfec9fb"
           }
-        },   
+        },
         {
-          "id": "com.xcompwiz:SCP_Lockdown:0.13.7.06@jar",
-          "name": "SCP_Lockdown",
+          "id": "com.xcompwiz:DungeonsMod:0.13.7.06@jar",
+          "name": "DungeonsMod",
           "type": "ForgeMod",
           "artifact": {
             "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/SCP_Lockdown-1.12.2-2.4.0-hotfix.jar",
-            "MD5": "4c8abgddc3c57cfc55da81975bf884dfec9fb"
+            "url": "https://github.com/kurokurogame/mod/raw/main/DungeonsMod-1.12.2-1.0.6.jar",
+            "MD5": "4c8abgddc43c7cfc5da8197bf88dfec9fb"
           }
         },
         {
@@ -784,9 +754,19 @@
           "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/Paraglider-1.12.2-1.0.1.5.jar",
-            "MD5": "4c8abg2ddc3c7cfc55da871975bf88dfec9fb"
+            "MD5": "4c8abgddc3c7cfc55da8197bf88dfec9fb"
           }
-        },        
+        },                
+        {
+          "id": "com.xcompwiz:mowziesmobs:0.13.7.06@jar",
+          "name": "mowziesmobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/mowziesmobs-1.5.8.jar",
+            "MD5": "4c68abgddc3c7cfc5da8197bf88dfec9fb"
+          }
+        },
         {
           "id": "com.xcompwiz:metamorph:0.13.7.06@jar",
           "name": "metamorph",
@@ -794,7 +774,27 @@
           "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/metamorph-1.2.9-1.12.2.jar",
-            "MD5": "4c8abgddc3c7cfc55d1a816975bf88dfec9fb"
+            "MD5": "4c8abgddc3c70cfc5da8197bf88dfec9fb"
+          }
+        },        
+        {
+          "id": "com.xcompwiz:SCP_Lockdown:0.13.7.06@jar",
+          "name": "SCP_Lockdown",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/SCP_Lockdown-1.12.2-2.4.0-hotfix.jar",
+            "MD5": "4c8abgddc3c7cfc5da81979bf88dfec9fb"
+          }
+        },          
+        {
+          "id": "com.xcompwiz:OptiFine_1.16.5_HD_U_G8:0.13.7.06@jar",
+          "name": "OptiFine_1.16.5_HD_U_G8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/hozonn/raw/main/OptiFine_1.16.5_HD_U_G8.jar",
+            "MD5": "4c8abgddc38c7cfc5da8197bf88dfec9fb"
           }
         },        
         {
@@ -804,9 +804,59 @@
           "artifact": {
             "size": 2349249,
             "url": "https://github.com/kurokurogame/mod/raw/main/modularwarfare-1.0.12f.jar",
-            "MD5": "4c8ab1gddc3c37cfc55da81975bf88dfec9fb"
+            "MD5": "4c87rabddc23c7cfc5da8197bf88dfec9fb"
           }
-        },             
+        },         
+        {
+          "id": "com.xcompwiz:chiselsandbits:0.13.7.06@jar",
+          "name": "chiselsandbits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/hozonn/raw/main/chiselsandbits-14.33.jar",
+            "MD5": "4c8abddc3c7csf1c5da8197bf88dfec9fb"
+          }
+        },       
+        {
+          "id": "com.xcompwiz:SlashBlade-mc:0.13.7.06@jar",
+          "name": "SlashBlade-mc",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/hozonn/raw/main/SlashBlade-mc1.12-r33.jar",
+            "MD5": "4c8abddc3c7cfc5da88197bf88fdfec9fb"
+          }
+        },              
+        {
+          "id": "com.xcompwiz:DrZharks:0.13.7.06@jar",
+          "name": "DrZharks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/hozonn/raw/main/DrZharks%2BMoCreatures%2BMod-12.0.5.jar",
+            "MD5": "4c8abddc3c7cfcg5da81973bf88dfec9fb"
+          }
+        },  
+        {
+          "id": "com.xcompwiz:iceandfire:0.13.7.06@jar",
+          "name": "iceandfire",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/blob/main/iceandfire-1.9.1-1.12.2.jar",
+            "MD5": "4c8abddc3c7cfcg56da8197bf88dfec9fb"
+          }
+        },   
+        {
+          "id": "com.xcompwiz:emoticons:0.13.7.06@jar",
+          "name": "emoticons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/blob/main/emoticons-1.0.1-1.12.2-dist.jar",
+            "MD5": "4c8a5bddc3c7cfcg5da8197bf88dfec9fb"
+          }
+        },         
         {
           "id": "options.txt",
           "name": "options.txt",
@@ -828,7 +878,7 @@
           }
         }
       ]
-    },
+    },    
     {
       "id": "Minecraft-1.16.5",
       "name": "Minecraft-1.16.5 (Minecraft 1.16.5)",
