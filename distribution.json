@@ -694,7 +694,7 @@
             "value": false
           }
         },
-       {
+        {
           "id": "net.minecraftcapes:minecraftcapes:10@jar"
           "name": "MinecraftCapes Mod",
           "type": "ForgeMod",
