@@ -766,17 +766,7 @@
             "url": "https://github.com/kurokurogame/mod/raw/main/iceandfire-1.9.1-1.12.2.jar",
             "MD5": "4c8abddc3c7cfc5da8197bf88dfec9fd"
           }
-        },        
-        {
-          "id": "com.xcompwiz:emoticons:0.13.7.06@jar",
-          "name": "emoticons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2349249,
-            "url": "https://github.com/kurokurogame/mod/raw/main/emoticons-1.0.1-1.12.2-dist.jar",
-            "MD5": "4c8abddc3c7cfc5da8297bf88dfec9fb"
-          }
-        },        
+        },     
         {
           "id": "com.xcompwiz:vehicle-mod:0.13.7.06@jar",
           "name": "vehicle-mod",
@@ -837,6 +827,26 @@
             "MD5": "4c8abddc3c7cfc5da8197bf88dfec9ub"
           }
         },
+        {
+          "id": "com.xcompwiz:llibrary:0.13.7.06@jar",
+          "name": "llibrary",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/llibrary-1.7.20-1.12.2.jar",
+            "MD5": "4c8abddc3c7rfc5da8197bf88dfec9ub"
+          }
+        },        
+        {
+          "id": "com.xcompwiz:obfuscate:0.13.7.06@jar",
+          "name": "obfuscate",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2349249,
+            "url": "https://github.com/kurokurogame/mod/raw/main/obfuscate-0.4.2-1.12.2.jar",
+            "MD5": "4c8abddc3c7cfc5da8197bf88dfyc9ub"
+          }
+        },        
         {
           "id": "options.txt",
           "name": "options.txt",
